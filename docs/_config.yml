@@ -1,5 +1,5 @@
-#theme: minima
+theme: minima
 title: MIR Mini-Project
 description: Music Information Retrieval analysis of a RIIZE song.
-theme: jekyll-theme-cayman
-show_downloads: false
+#theme: jekyll-theme-cayman
+#show_downloads: false
