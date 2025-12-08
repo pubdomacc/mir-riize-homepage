@@ -6,7 +6,7 @@ The analysis was done in a Jupyter notebook.
 ## 📓 View Notebook (Embedded)
 
 <iframe 
-    src="https://nbviewer.org/github/<USERNAME>/<REPO>/blob/main/mir-fame-page/MIR-notebook.ipynb"
+    src="https://nbviewer.org/github/pubdomacc/mir-analysis-riize-fame/blob/main/MIR-notebook.ipynb"
     width="100%" 
     height="900px"
     style="border:none;">
