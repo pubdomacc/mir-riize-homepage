@@ -1,4 +1,10 @@
-# Hello
+---
+layout: default
+title: "Welcome"
+---
+
+<!-- Remove the manual # header here -->
+
 ## RIIZE MIR Mini-Project
 
 This is my music-information-retrieval analysis project.
