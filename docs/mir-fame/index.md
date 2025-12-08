@@ -14,7 +14,7 @@ The analysis was done in a Jupyter notebook.
 
 > If the embedded viewer does not load, click the link below to open it directly:
 >
-> 👉 **https://nbviewer.org/github/pubdomacc/mir-analysis-riize-fame/blob/main/mir-fame/MIR-notebook.ipynb**
+> 👉 **[https://nbviewer.org/github/pubdomacc/mir-analysis-riize-fame/blob/main/mir-fame/MIR-notebook.ipynb](https://nbviewer.org/github/pubdomacc/mir-analysis-riize-fame/blob/main/notebooks/MIR-notebook.ipynb)**
 
 ---
 
