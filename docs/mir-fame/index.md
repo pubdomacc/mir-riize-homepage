@@ -1,4 +1,9 @@
-# FAME — a MIR Analysis
+---
+layout: default
+title: "FAME"
+---
+
+# Fame — a MIR Analysis
 
 This project started out of my interest in Music Information Retrieval and, of course, my love for RIIZE’s music. So I figured: why not look at their tracks through an MIR lens? I originally wanted to start with my favorite album, *Odyssey*, but it made more sense to begin with their latest single album, *Fame*.
 
