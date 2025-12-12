@@ -3,6 +3,11 @@ layout: default
 title: "FAME"
 ---
 
+header_pages:
+  - index.md
+  - mir/index.md
+
+
 [<< Back to MIR Projects](/mir-riize-homepage/mir/)
 
 # Fame — a MIR Analysis
