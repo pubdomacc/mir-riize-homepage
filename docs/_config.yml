@@ -8,3 +8,7 @@ assets:
   css:
     - /assets/css/custom.css
 
+header_pages:
+  - index.md
+  - mir/index.md
+
